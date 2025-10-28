@@ -1,7 +1,4 @@
-- 👋 Hi, I’m Vanshika
-- 👀 I’m interested in Backend Development
-- 🌱 I’m currently a student 
-- 💞️ I’m looking to collaborate on projects based on AI/ML 
-
-
-
+👋 I’m Vanshika Arora, an AI/ML Engineer passionate about building intelligent systems and automation workflows.
+🤖 I work with LLMs, RAG pipelines, and AI Agents using frameworks like LangChain, CrewAI, n8n and LangGraph.
+⚙️ Skilled in Python, FastAPI, Flask, and React, I enjoy creating end-to-end scalable AI solutions.
+🚀 Always exploring innovative ways to integrate AI into real-world products.
